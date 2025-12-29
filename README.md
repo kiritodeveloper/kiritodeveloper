@@ -13,11 +13,18 @@ I'm **Ricardo Rojas Cruz (kirito)**, **Ingeniero de Sistemas**,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Professional Skill Set
 
-[![Kirito's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiritodeveloper&show_icons=true&theme=vue)](https://github.com/kiritodeveloper)
-
----
+```mermaid
+radar
+    title Perfil de Competencias Profesionales
+    Ciberseguridad: 95
+    Redes_e_Infraestructura: 90
+    Desarrollo_de_Software: 85
+    Innovacion_Tecnologica: 92
+    Diseño_Innovacion_Social: 90
+    Documentacion_Academica: 95
+    Gestion_y_Estrategia: 90
 
 ## 📚 Repositorios Públicos Destacados
 
