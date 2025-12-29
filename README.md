@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/5acb5424-8a32-4ee5-91c5-31e5df7424f6)
+![banner](https://wallpapers.com/images/high/cybersecurity-background-xvfjjk6fgdqs4a0h.webp)
 
 ## Hi There! 👨‍💻  
 I'm **Ricardo Rojas Cruz (kirito)**, **Ingeniero de Sistemas**,  
