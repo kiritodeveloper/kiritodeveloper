@@ -25,7 +25,7 @@ radar
     Diseño_Innovacion_Social: 90
     Documentacion_Academica: 95
     Gestion_y_Estrategia: 90
-
+```
 ## 📚 Repositorios Públicos Destacados
 
 | Repositorio | Enlace | Descripción | Enfoque |
