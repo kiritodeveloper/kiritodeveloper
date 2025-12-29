@@ -14,18 +14,7 @@ I'm **Ricardo Rojas Cruz (kirito)**, **Ingeniero de Sistemas**,
 ---
 
 ## 📊 Professional Skill Set
-
-```mermaid
-radar
-    title Perfil de Competencias Profesionales
-    Ciberseguridad: 95
-    Redes_e_Infraestructura: 90
-    Desarrollo_de_Software: 85
-    Innovacion_Tecnologica: 92
-    Diseño_Innovacion_Social: 90
-    Documentacion_Academica: 95
-    Gestion_y_Estrategia: 90
-```
+![Professional Skill Radar](assets/skill_radar.svg)
 ## 📚 Repositorios Públicos Destacados
 
 | Repositorio | Enlace | Descripción | Enfoque |
